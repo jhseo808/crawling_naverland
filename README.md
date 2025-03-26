@@ -12,7 +12,7 @@
 
 ## 파일 구조
 
-- `매물.py`: 네이버 부동산 API 호출 스크립트
+- `naver_land.py`: 네이버 부동산 API 호출 스크립트
 - `naver_land_gui.py`: GUI 기반 매물 검색 프로그램
 - `naver_land_[날짜]_[시간].json`: 검색 결과 저장 파일
 
